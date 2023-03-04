@@ -1,1 +1,206 @@
-# ReaLynWeb.github.io
+	
+
+<html>
+    <head>
+    <title>home</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    
+    <head>
+    <body>
+    <!--SEARCHBAR AND HEADING-->
+    
+    <h3 style="background-color: black;"><br><img src="dr.jpg" font width="120" align="left" font height="120">
+    
+    <h1 style="background-color:yellow;">
+    <p style="color:rgb(0,102,102); font-size:200%;">Dr. Juan G. Nolasco</p><p style="color:black; font-size:25px;">High School</p></h1></h3></img>
+    
+    <!--MENU BAR-->
+        <div class="menu-bar">
+    <ul>
+        <li class="active"><a href="index.html"><i class="fa fa-home"></i>HOME</a></li>
+    
+        <li><a  href="about.html"><i class="fa fa-user"></i>ABOUT</a>
+            <div class="sub-menu-1">
+              <ul>
+            <li><a href="about.html">The School</a></li>
+            <li><a href="visionmission.html">Vission & Mission</a></li>
+            <li><a href="principal.html">The Principal</a></li>
+            <li><a href="corevalues.html">Core Values</a></li>
+             </ul>
+           </div>
+        </li>
+        <li><a  href="admission.html"><i class="fa fa-envelope"></i>ADMISSION</a>	
+           <div class="sub-menu-1">
+              <ul>
+            <li><a href="junior.html">Junior High</a></li>
+            <li><a href="senior.html">Senior High</a></li>
+            <li><a href="register.html">Register</a></li>
+            </ul>
+           </div>
+            </li>	
+        <li><a  href="contact.html"><i class="fa fa-phone"></i>CONTACT</a></li>
+        <li><a  href="news.html"><i class="fa fa-newspaper-o"></i>NEWS</a></li>
+    </ul>
+    </div>
+    <div class="search-box">
+    <input class="search-txt" type="text" name="" placeholder="Type to search">
+    <a class="search-btn" href="#">
+    <i class="fa fa-search"></i>
+    </a></div>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br><br><br><br><br>
+    <section>
+            <div class="leftBox">
+                <div class="content">
+            <h1>Events & Shows</h1>
+            <p> Nolasco High schools ecoveries and 12 more fatalities.  By JULIA MARI ORNEDO, GMA News2019 (COVID-19) continued to widen its lead over the death toll on Sunda</p>
+    </div>
+    
+    
+    
+    <div class="calendar">
+        <div class="image">
+            <h2>21, Tuesday</h2>
+            <h3>April | 2020</h3>
+        </div>
+        <div class="date">
+            <div class="day">S</div>
+        <div class="day">M</div>
+        <div class="day">T</div>
+        <div class="day">W</div>
+        <div class="day">T</div>
+        <div class="day">F</div>
+        <div class="day">S</div>
+        <div class="number"></div>
+        <div class="number"></div>
+        <div class="number"></div>
+    <div class="number">1</div>
+        <div class="number">2</div>
+        <div class="number">3</div>
+        <div class="number">4</div>
+        <div class="number">5</div>
+        <div class="number">6</div>
+        <div class="number">7</div>
+        <div class="number">8</div>
+        <div class="number">9</div>
+        <div class="number">10</div>
+        <div class="number">11</div>
+        <div class="number">12</div>
+        <div class="number">13</div>
+        <div class="number">14</div>
+        <div class="number">15</div>
+        <div class="number">16</div>
+        <div class="number">17</div>
+        <div class="number">18</div>
+        <div class="number">19</div>
+        <div class="number">20</div>
+        <div class="number active">21</div>
+        <div class="number">22</div>
+        <div class="number">23</div>
+        <div class="number">24</div>
+        <div class="number">25</div>
+        <div class="number">26</div>
+        <div class="number">27</div>
+        <div class="number">28</div>
+        <div class="number">29</div>
+        <div class="number">30</div>
+        </div>
+        </div>
+    </div>
+                 
+    
+    
+            <div class="events">
+                <ul>
+                    <li>
+                        <div class="time">
+                            <h2>24<br><br><span>June</span></h2>
+                        </div>
+                        <div class="details">
+                            <h3>Back TO SCHOOL</h3>
+                            <p> students will back after the cases about the pandemic COVID-19. </p>
+                            <a href="#">View Details</a>
+                    </div>
+                    <div style="clear: both;"></div>
+                    </li>
+                        <li>
+                        <div class="time">
+                            <h2>24<br><br><span>June</span></h2>
+                        </div>
+                        <div class="details">
+                            <h3>Back TO SCHOOL</h3>
+                            <p> students will back after the cases about the pandemic COVID-19. </p>
+                            <a href="#">View Details</a>
+                    </div>
+                    <div style="clear: both;"></div>
+                    </li>
+                        <li>
+                        <div class="time">
+                            <h2>24<br><br><span>June</span></h2>
+                        </div>
+                        <div class="details">
+                            <h3>Back TO SCHOOL</h3>
+                            <p> students will back after the cases about the pandemic COVID-19. </p>
+                            <a href="#">View Details</a>
+                    </div>
+                    
+                    </li>
+                </ul>
+    
+            </div>
+    </div>
+    
+    </section>
+    </article>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    
+    
+    
+    
+    
+    
+    <div class="footer">
+        <div class="inner-footer">
+            <div class="footer-items">
+            <img src="dr.jpg" font width="120" align="left" font height="120">
+            <br>
+            <h1> Nolasco  High School</h1>	
+            </div>	
+    
+            <div class="footer-items">
+                <h2>Navigators</h2>
+                    <div class="border"></div>
+                <ul>
+                    <a href=""><li>Home</li></a>
+                    <a href=""><li>About</li></a>
+                    <a href=""><li>Admission</li></a>
+                    <a href=""><li>Contact</li></a>
+                    <a href=""><li>News</li></a>
+                </ul>
+            </div>	
+    
+    
+            <div class="footer-items">
+                <h2>Contact Us</h2>
+                    <div class="border"></div>
+                <ul>
+                    <li><i class="fa fa-map-marker"></i>2252 Tioco Street Barangay 91, Tondo, &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Manila.</li>
+                    <li><i class="fa fa-phone"></i>254-5349</li>
+                    <li><i class="fa fa-envelope"></i>juan.nolasco.hs@gmail.com</li>
+                </ul>
+                    <div class="social-media">			
+                    <a href=""><i class="fa fa-facebook"></i></li></a>
+                    <a href=""><i class="fa fa-twitter"></i></li></a>
+                    <a href=""><i class="fa fa-instagram"></i></li></a>
+                    <a href=""><i class="fa fa-google-plus"></i></li></a>
+                    </div>
+                </div>	
+                </div>
+                    <div class="footer-bottom">
+                        Copyright &copy; Dr. Juan G. Nolasco High School 2019. All rights reserved.
+                    </div>	
+                </div>
+    </div>
+    </body>
+    </html>
